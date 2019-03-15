@@ -14,7 +14,7 @@ instructor: ["TBD"]
 helper: ["TBD"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:
-eventbrite:
+eventbrite: 58879748914
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -115,9 +115,8 @@ Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
 <strong>Requirements:</strong> Participants must bring a laptop with a
-Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges
-on. They should have a few specific software packages installed (listed
-<a href="#setup">below</a>). They are also required to abide by
+Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.). They should have a few specific software packages installed (listed
+<a href="#setup">below</a>). They are also required to abide by the
 {% if page.carpentry == "swc" %}
 Software Carpentry's
 {% elsif page.carpentry == "dc" %}
