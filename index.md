@@ -10,7 +10,7 @@ humandate: "June 6-7, 2019"
 humantime: "9:00 am - 4:30 pm"
 startdate: 2019-06-07
 enddate:  2019-06-08
-instructor: ["TBD"]
+instructor: ["Dan Gatti", "Sue McClatchy"]
 helper: ["TBD"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:
