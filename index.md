@@ -10,8 +10,8 @@ humandate: "June 6-7, 2019"
 humantime: "9:00 am - 4:30 pm"
 startdate: 2019-06-07
 enddate:  2019-06-08
-instructor: ["Dan Gatti", "Sue McClatchy"]
-helper: ["TBD"]
+instructor: ["Sue McClatchy", "Tim Stearns", "Dan Gatti"]
+helper: ["Josh Mincer", "Nikhil Milind", "Stephanie Hoyt", "Jon Judd"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:
 eventbrite: 58879748914
@@ -187,38 +187,38 @@ for more information.
 <h3>Thursday, Jun 6</h3>
 <table class="table table-striped">
 <tr> <td>09:00</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/">Workshop Overview</a></td> </tr>
-<tr> <td>09:30</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/01-rstudio-intro/">Introduction to R and RStudio</a></td> </tr>
-<tr> <td>10:25</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/02-project-intro/">Project Management With RStudio</a></td> </tr>
+<tr> <td>09:30</td>  <td><a href="https://r4ds.had.co.nz/workflow-basics.html">Workflow: basics</a></td> </tr>
+<tr> <td>09:55</td>  <td><a href="https://r4ds.had.co.nz/workflow-scripts.html">Workflow: scripts</a></td> </tr>
+<tr> <td>10:25</td>  <td><a href="https://r4ds.had.co.nz/workflow-projects.html">Workflow: projects</a></td> </tr>
 <tr> <td>10:45</td>  <td>Coffee</td> </tr>
 <tr> <td>11:00</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/03-seeking-help/">Seeking Help</a></td> </tr>
-<tr> <td>11:20</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/04-data-structures-part1/">Data Structures</a></td> </tr>
+<tr> <td>11:20</td>  <td><a href="https://r4ds.had.co.nz/vectors.html">Vectors</a></td> </tr>
 <tr> <td>12:30</td>  <td>Lunch break</td> </tr>
-<tr> <td>13:30</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2/">Exploring Data Frames</a></td> </tr>
-<tr> <td>14:15</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/06-data-subsetting/">Subsetting Data</a></td> </tr>
-<tr> <td>15:15</td>  <td>Coffee</td> </tr>
-<tr> <td>15:30</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/07-control-flow/">Control Flow</a></td> </tr>
-<tr> <td>16:30</td>  <td>Wrap-up</td> </tr>
-<tr> <td>16:35</td>  <td>End</td> </tr>
+<tr> <td>13:30</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/09-vectorization/">Vectorization</a></td> </tr>
+<tr> <td>13:45</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/07-control-flow/">Control Flow</a></td> </tr>
+<tr> <td>14:45</td>  <td>Coffee</td> </tr>
+<tr> <td>15:00</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/10-functions/">Functions Explained</a></td> </tr>
+<tr> <td>16:25</td>  <td>Wrap-up</td> </tr>
+<tr> <td>16:30</td>  <td>End</td> </tr>
 </table>
 </div>
 <div class="col-md-6">
 <h3>Friday, June 7</h3>
 <table class="table table-striped">
-<tr> <td>09:00</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/08-plot-ggplot2/">Creating Publication-Quality Graphics</a></td> </tr>
-<tr> <td>10:05</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/09-vectorization/">Vectorization</a></td> </tr>
-<tr> <td>10:05</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/10-functions/">Functions Explained</a></td> </tr>
+<tr> <td>09:00</td>  <td><a href="https://r4ds.had.co.nz/data-visualisation.html">Data Visualisation</a></td> </tr>
 <tr> <td>10:45</td>  <td>Coffee</td> </tr>
-<tr> <td>11:00</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/10-functions/">Functions Explained (continued)</a></td> </tr>
-<tr> <td>11:45</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/11-writing-data/">Writing Data</a></td> </tr>
-<tr> <td>12:00</td>  <td>Lunch break</td> </tr>
-<tr> <td>13:00</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/13-dplyr/">Dataframe Manipulation with dplyr</a></td> </tr>
-<tr> <td>13:30</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/14-tidyr/">Dataframe Manipulation with tidyr</a></td> </tr>
-<tr> <td>14:15</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/15-knitr-markdown/">Producing Reports With knitr</a></td> </tr>
-<tr> <td>15:00</td>  <td>Coffee</td> </tr>
-<tr> <td>15:15</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/15-knitr-markdown/">Producing Reports With knitr (continued)</a></td> </tr>
-<tr> <td>15:45</td>  <td><a href="https://swcarpentry.github.io/r-novice-gapminder/16-wrap-up/">Writing Good Software</a></td> </tr>
-<tr> <td>16:00</td>  <td>Wrap-up</td> </tr>
-<tr> <td>16:05</td>  <td>End</td> </tr>
+<tr> <td>11:00</td>  <td><a href="https://r4ds.had.co.nz/transform.html">Data Transformation</a></td> </tr>
+<tr> <td>12:00</td>  <td><a href="https://r4ds.had.co.nz/exploratory-data-analysis.html">Exploratory Data Analysis</a></td> </tr>
+<tr> <td>12:30</td>  <td>Lunch break</td> </tr>
+<tr> <td>13:30</td>  <td><a href="https://r4ds.had.co.nz/exploratory-data-analysis.html">Exploratory Data Analysis (continued)</a></td> </tr>
+<tr> <td>14:00</td>  <td><a href="https://r4ds.had.co.nz/tibbles.html">Tibbles</a></td> </tr>
+<tr> <td>14:30</td>  <td><a href="https://r4ds.had.co.nz/data-import.html">Data Import</a></td> </tr>
+<tr> <td>14:45</td>  <td>Coffee</td> </tr>
+<tr> <td>15:00</td>  <td><a href="https://r4ds.had.co.nz/tidy-data.html">Tidy Data</a></td> </tr>
+<tr> <td>15:30</td>  <td><a href="https://r4ds.had.co.nz/r-markdown.html">R Markdown</a></td> </tr>
+<tr> <td>16:00</td>  <td><a href="https://r4ds.had.co.nz/r-markdown-formats.html">R Markdown Formats</a></td> </tr>
+<tr> <td>16:25</td>  <td>Wrap-up</td> </tr>
+<tr> <td>16:30</td>  <td>End</td> </tr>
 </table>
 </div>
 </div>
@@ -267,8 +267,7 @@ please preview your site before committing, and make sure to run
 <li>Reading and plotting data</li>
 <li>Creating and using functions</li>
 <li>Loops and conditionals</li>
-<li>Using R from the command line</li>
-<li><a href="{{site.swc_pages}}/r-novice-inflammation/reference/">Reference...</a></li>
+<li><a href="https://www.rstudio.com/resources/cheatsheets/">Reference...</a></li>
 </ul>
 </div>
 </table>
