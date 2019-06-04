@@ -13,7 +13,7 @@ enddate:  2019-06-08
 instructor: ["Sue McClatchy", "Tim Stearns", "Dan Gatti"]
 helper: ["Josh Mincer", "Nikhil Milind", "Stephanie Hoyt", "Jon Judd"]
 email: ["susan.mcclatchy@jax.org"]
-collaborative_notes:
+collaborative_notes: https://pad.carpentries.org/2019-06-06-r-bh
 eventbrite: 58879748914
 ---
 
