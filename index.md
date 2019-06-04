@@ -178,6 +178,11 @@ for more information.
 
 <hr/>
 
+<h2 id="surveys">Surveys</h2>
+<p>Please be sure to complete these surveys before and after the workshop.</p>
+<p><a href="https://www.surveymonkey.com/r/r-pre">Pre-workshop Survey</a></p>
+<p><a href="https://www.surveymonkey.com/r/G57582X">Post-workshop Survey</a></p>
+
 <hr/>
 
 <h2 id="schedule">Schedule</h2>
