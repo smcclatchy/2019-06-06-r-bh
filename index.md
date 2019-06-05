@@ -13,7 +13,7 @@ enddate:  2019-06-08
 instructor: ["Sue McClatchy", "Tim Stearns", "Dan Gatti"]
 helper: ["Josh Mincer", "Nikhil Milind", "Stephanie Hoyt", "Jon Judd"]
 email: ["susan.mcclatchy@jax.org"]
-collaborative_notes:
+collaborative_notes: https://pad.carpentries.org/2019-06-06-r-bh
 eventbrite: 58879748914
 ---
 
@@ -177,6 +177,11 @@ for more information.
 </p>
 
 <hr/>
+
+<h2 id="surveys">Surveys</h2>
+<p>Please be sure to complete these surveys before and after the workshop.</p>
+<p><a href="https://www.surveymonkey.com/r/r-pre">Pre-workshop Survey</a></p>
+<p><a href="https://www.surveymonkey.com/r/G57582X">Post-workshop Survey</a></p>
 
 <hr/>
 
